@@ -11,10 +11,13 @@ import { AuthComponent } from './auth/auth.component';
 @NgModule({
   declarations: [
     AppComponent,
+<<<<<<< HEAD
     AboutComponent,
     LoginComponent,
     NavComponent,
     AuthComponent
+=======
+>>>>>>> af92876342722a31ab3548695e335dd82ec65abc
   ],
   imports: [
     BrowserModule,
