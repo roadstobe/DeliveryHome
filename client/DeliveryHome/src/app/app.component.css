@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 agm-map {
     height: 300px;
   }
+=======
+@import url("https://fonts.googleapis.com/css2?family=Ovo&display=swap");
+
+* {
+  font-family: "Ovo", serif;
+}
+>>>>>>> 0d58566570ba9815940606a73e11272cec5721c7

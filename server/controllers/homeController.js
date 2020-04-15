@@ -16,9 +16,12 @@ exports.index = function (req, res) {
     })
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
 =======
 >>>>>>> Igor-Klipkov
+=======
+>>>>>>> 0d58566570ba9815940606a73e11272cec5721c7
 }
