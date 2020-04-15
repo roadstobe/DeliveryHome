@@ -125,5 +125,13 @@
       }
     }
   },
+<<<<<<< HEAD
   "defaultProject": "DeliveryHome"
 }
+=======
+  "defaultProject": "DeliveryHome",
+  "cli": {
+    "analytics": false
+  }
+}
+>>>>>>> Igor-Klipkov

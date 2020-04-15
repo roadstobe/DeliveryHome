@@ -15,7 +15,10 @@ exports.index = function (req, res) {
         res.end(data);
     })
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> Igor-Klipkov
 }

@@ -1,0 +1,40 @@
+input.ng-touched.ng-invalid {border:solid red 2px;}
+input.ng-touched.ng-valid {border:solid green 2px;}
+.myForm
+{
+    padding-top: 10%;
+    width: 40%;
+    margin: auto;
+  
+}
+.col
+{
+    background-color: #FEF7DE;
+}
+
+label
+{
+font-size: 20px;
+font-weight: 100;
+
+font-family: Ovo;
+}
+
+span
+{
+    font-size: 40px;
+    font-family: Ovo;
+    margin-left: 30%;
+}
+.btn
+{
+    width: 49%;
+    border-radius: 5px;
+   
+}
+.btn-danger
+{
+    width: 49%;
+   
+    
+}
