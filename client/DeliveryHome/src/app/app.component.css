@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Ovo&display=swap");
+
+* {
+  font-family: "Ovo", serif;
+}
+
+.container {
+  min-width: 1442px;
+}
