@@ -1,5 +1,11 @@
+<div>Navigate</div>
 <div class="container">
   <h1 >Begin work</h1>
+  <router-outlet></router-outlet>
+  <agm-map [latitude]="lat" [longitude]="lng">
+    <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+  </agm-map>
+  
 </div>
 <div>Footer</div>
 

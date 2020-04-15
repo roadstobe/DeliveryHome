@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "DeliveryHome"
+  "defaultProject": "DeliveryHome",
+  "cli": {
+    "analytics": false
+  }
 }
